@@ -1,0 +1,31 @@
+ros-indigo-micros-mars-task-alloc (0.0.5-1saucy) saucy; urgency=high
+
+  * commit on June 16th
+  * Contributors: minglongli
+
+ -- Minglong Li <minglong_l@163.com>  Thu, 16 Jun 2016 16:00:00 -0000
+
+ros-indigo-micros-mars-task-alloc (0.0.4-1saucy) saucy; urgency=high
+
+  * Update README.md
+  * commit on June 15th
+  * commit on June 15th
+  * Update README.md
+  * Update README.md
+  * Update README.md
+  * Update README.md
+  * first commit
+  * first commit
+    Description of the package.
+  * Contributors: Minglong Li, liminglong, minglongli
+
+ -- Minglong Li <minglong_l@163.com>  Tue, 14 Jun 2016 16:00:00 -0000
+
+ros-indigo-micros-mars-task-alloc (0.0.3-1saucy) saucy; urgency=high
+
+  * first commit
+  * Contributors: liminglong
+
+ -- Minglong Li <minglong_l@163.com>  Mon, 13 Jun 2016 16:00:00 -0000
+
+
